@@ -197,8 +197,8 @@ Data Science Education: Real-world security datasets
 
 
 
-![Screenshot 93](screenshot(93).png)
+![Screenshot 93](Screenshot(93).png)
 
 
-![Screenshot 94](screenshot(94).png)
+![Screenshot 94](Screenshot(94).png)
 
