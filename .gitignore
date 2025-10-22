@@ -12,6 +12,9 @@ google_drive_files/
 *.pkl
 *.h5
 *.hdf5
+*.png
+*.jpg
+*.jpeg
 
 # Compiled files
 *.pyd
