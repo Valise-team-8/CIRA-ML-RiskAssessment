@@ -197,5 +197,8 @@ Data Science Education: Real-world security datasets
 
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4505fe1b-5e9e-4970-a6ac-26ae315f18c5" />
+![Screenshot 93](screenshot(93).png)
+
+
+![Screenshot 94](screenshot(94).png)
 
