@@ -3,7 +3,9 @@
 This repository contains large files that are hosted on Google Drive due to GitHub's size limitations.
 
 ## All Large Files
-**Google Drive Link**: [Add your Google Drive link here]
+**Google Drive Link**: 1.https://drive.google.com/drive/folders/1usmJYN-duXwImR9TxnzulpkVxLgt0WGK?usp=drive_link
+                       2. https://drive.google.com/drive/folders/1oUnRUPp1m2Yo-2L6P11dedd6B2sRPus_?usp=drive_link
+                       3. https://drive.google.com/drive/folders/1gl68vn-8HZLwN7AUQELUttiMCwbH0UZs?usp=drive_link
 
 The Google Drive folder contains:
 
