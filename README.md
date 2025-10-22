@@ -192,3 +192,10 @@ Cybersecurity Training: Hands-on ML security projects
 Risk Assessment Learning: Practical threat modeling
 
 Data Science Education: Real-world security datasets
+
+
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4505fe1b-5e9e-4970-a6ac-26ae315f18c5" />
+
