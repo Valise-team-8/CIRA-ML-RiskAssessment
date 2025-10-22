@@ -1,0 +1,18 @@
+{
+    "total_samples": 50000,
+    "risk_score_stats": {
+        "mean": 0.27468,
+        "std": 0.446357348206172,
+        "min": 0.0,
+        "max": 1.0
+    },
+    "risk_category_distribution": {
+        "Low": 36266,
+        "High": 13734
+    },
+    "threat_level_distribution": {
+        "Low": 36266,
+        "Critical": 13734
+    },
+    "high_risk_percentage": 27.467999999999996
+}

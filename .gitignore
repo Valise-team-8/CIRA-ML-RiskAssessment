@@ -1,0 +1,39 @@
+# Conda environments
+conda_envs/
+env/
+venv/
+.env/
+
+# Large files and datasets
+large_files/
+google_drive_files/
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.hdf5
+
+# Compiled files
+*.pyd
+*.dll
+*.lib
+*.pdb
+*.exe
+*.so
+*.dylib
+*.bin
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (often large)
+models/
+*.model
+*.weights
+
+# Results and outputs
+results/
+outputs/
+logs/

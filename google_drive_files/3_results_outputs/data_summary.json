@@ -1,0 +1,73 @@
+{
+    "dataset_shape": [
+        50000,
+        4
+    ],
+    "columns": [
+        "cybersecurity_a_Source Port",
+        "cybersecurity_a_Destination Port",
+        "cybersecurity_a_Packet Length",
+        "cybersecurity_a_Anomaly Scores"
+    ],
+    "data_types": {
+        "cybersecurity_a_Source Port": "float32",
+        "cybersecurity_a_Destination Port": "float32",
+        "cybersecurity_a_Packet Length": "float32",
+        "cybersecurity_a_Anomaly Scores": "float32"
+    },
+    "missing_values": {
+        "cybersecurity_a_Source Port": 0,
+        "cybersecurity_a_Destination Port": 0,
+        "cybersecurity_a_Packet Length": 0,
+        "cybersecurity_a_Anomaly Scores": 0
+    },
+    "numeric_columns": [
+        "cybersecurity_a_Source Port",
+        "cybersecurity_a_Destination Port",
+        "cybersecurity_a_Packet Length",
+        "cybersecurity_a_Anomaly Scores"
+    ],
+    "categorical_columns": [],
+    "basic_stats": {
+        "cybersecurity_a_Source Port": {
+            "count": 50000.0,
+            "mean": -2.643585261807857e-08,
+            "std": 1.0000100135803223,
+            "min": -2.3250644207000732,
+            "25%": -0.22812935709953308,
+            "50%": 6.953820275157341e-08,
+            "75%": 0.20112452283501625,
+            "max": 2.3630571365356445
+        },
+        "cybersecurity_a_Destination Port": {
+            "count": 50000.0,
+            "mean": 3.738403364650367e-09,
+            "std": 1.0000100135803223,
+            "min": -2.3265349864959717,
+            "25%": -0.2282259166240692,
+            "50%": -1.0809144868062504e-07,
+            "75%": 0.2050630822777748,
+            "max": 2.3445723056793213
+        },
+        "cybersecurity_a_Packet Length": {
+            "count": 50000.0,
+            "mean": -7.629394893626795e-09,
+            "std": 1.0000100135803223,
+            "min": -2.3258731365203857,
+            "25%": -0.22563479840755463,
+            "50%": 1.1022618906508796e-07,
+            "75%": 0.21191488206386566,
+            "max": 2.3283588886260986
+        },
+        "cybersecurity_a_Anomaly Scores": {
+            "count": 50000.0,
+            "mean": -1.5602111602674995e-08,
+            "std": 1.0000100135803223,
+            "min": -2.3382701873779297,
+            "25%": -0.2085452377796173,
+            "50%": -1.3429297496259096e-07,
+            "75%": 0.21786725521087646,
+            "max": 2.337306022644043
+        }
+    }
+}

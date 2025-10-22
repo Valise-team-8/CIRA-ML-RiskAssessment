@@ -1,0 +1,15 @@
+{
+    "high_risk_controls": [
+        "Network segmentation",
+        "Zero Trust framework",
+        "Incident Response Plan"
+    ],
+    "medium_risk_controls": [
+        "Enable IDS/IPS",
+        "Enforce role-based access"
+    ],
+    "low_risk_controls": [
+        "Use antivirus",
+        "Apply OS patches regularly"
+    ]
+}

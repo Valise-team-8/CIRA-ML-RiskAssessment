@@ -1,0 +1,17 @@
+{
+    "xgboost_model.pkl": {
+        "accuracy": 0.9999,
+        "f1": 0.999899994344118,
+        "roc_auc": 1.0
+    },
+    "lightgbm_model.pkl": {
+        "accuracy": 1.0,
+        "f1": 1.0,
+        "roc_auc": 1.0
+    },
+    "random_forest_model.pkl": {
+        "accuracy": 1.0,
+        "f1": 1.0,
+        "roc_auc": 0.9999999999999999
+    }
+}
